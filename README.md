@@ -16,7 +16,7 @@ O objetivo principal é fornecer à equipe de gestão insights rápidos sobre a 
 
 ## 🖼️ Visualização do Dashboard
 
-### 1. Visão Geral (Geral de Vendas)
+## Visão Geral (Geral de Vendas)
 > Painel consolidado com indicadores globais de faturamento, pedidos e tíquete médio.
 ![Visão Geral do Dashboard](./Dashboard_powerbi.png)
 ---
