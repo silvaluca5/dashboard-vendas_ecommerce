@@ -30,7 +30,7 @@ O objetivo principal é fornecer à equipe de gestão insights rápidos sobre a 
 * **Visualizações Dinâmicas:**
   * **Faturamento por Categoria (Gráfico de Barras):** Destaque para as categorias de *Móveis*, *Tecnologia* e *Material de Escritório*.
   * **Evolução Temporal do Faturamento (Gráfico de Linha):** Acompanhamento do crescimento contínuo da receita entre 2015 e 2018.
-  * **Distribuição por Estado (Gráfico de Barras Horizontais):** Mapeamento dos principais estados em faturamento.
+  * **Distribuição Geográfica (Mapa Interativo)**: Mapeamento do faturamento por localização para identificar visualmente a concentração de vendas pelos   	estados/regiões.
   * **Filtro Regional (Segmentação de Dados):** Botões interativos para filtrar os dados pelas regiões *Central*, *Oeste*, *Leste* e *Sul*.
 
 ---
