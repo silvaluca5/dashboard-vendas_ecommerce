@@ -19,13 +19,7 @@ O objetivo principal é fornecer à equipe de gestão insights rápidos sobre a 
 ### 1. Visão Geral (Geral de Vendas)
 > Painel consolidado com indicadores globais de faturamento, pedidos e tíquete médio.
 ![Visão Geral do Dashboard](./Dashboard_powerbi.png)
-
-### 2. Visão Segmentada (Filtro Aplicado: Região Oeste)
-> Interatividade dinâmica permitindo a análise focada em regiões específicas (ex: Região Oeste).
-![Região Oeste](./Dashboard_regiaooeste.png)
-
 ---
-
 ## 📈 Principais Indicadores (KPIs) e Visualizações
 
 * **KPIs Principais:**
